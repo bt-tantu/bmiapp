@@ -1,0 +1,18 @@
+GridPane {
+    -fx-background-color: lightblue;
+    -fx-padding: 10;
+}
+
+Text.Subject {
+    -fx-font-size: 70;
+    -fx-font-weight: bold; 
+    -fx-fill: gold;
+    -fx-stroke: black;     /* Màu viền*/
+    -fx-stroke-width: 5;  /*Độ rộng viền 5px*/
+}
+
+Button {
+    -fx-background-color: red;    /*màu background button*/
+    -fx-text-fill: yellow;       /* màu chữ button*/
+    -fx-font-weight: bold;
+}
